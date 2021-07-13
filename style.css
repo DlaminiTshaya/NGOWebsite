@@ -163,6 +163,9 @@ body{
     border-radius:0 0 50% 50%;
     transform: translateX(-50%) translateY(20px) rotate(4deg);
 }
+.story-box{
+    height: 600px;
+}
 }
 
 /* about us section*/
@@ -208,7 +211,7 @@ body{
     background: #c6f8bc;
     margin-bottom: 30px;
     position: relative;
-    height: 800px;
+    height: 570px;
 }
 .story-box h2{
     text-align: center;
